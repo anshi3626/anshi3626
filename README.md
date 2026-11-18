@@ -1,27 +1,129 @@
-<h1 align="center">Hi 👋, I'm Anshika Yadav</h1>
-<h3 align="center">A passionate BCA Cloud & Security Student|</h3>
+# Hi there, I'm Anshika Yadav! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi3626&label=Profile%20views&color=0e75b6&style=flat" alt="anshi3626" /> </p>
+\<h3 align="center">BCA Cloud & Security Student | Aspiring Cybersecurity & Machine Learning Developer\</h3>
 
-- 🔭 I’m currently working on [permscan-android-malware-detection](https://github.com/anshi3626/permscan-android-malware-detection)
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity+%26+Machine+Learning;Building+Smart+%26+Secure+Solutions;Learning+%2C+Building+%26+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=650\&lines=Exploring+Cybersecurity+%26+Machine+Learning;Building+Smart+%26+Secure+Solutions;Learning+%2C+Building+%26+Growing+Every+Day)" alt="Typing SVG" /> \</p>
 
-- 🌱 I’m currently learning **Machine Learning, CyberSecurity,Freelancing**
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=anshi3626&label=Profile%20Views&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=anshi3626\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)" alt="Profile Views" />   \<img src="[https://img.shields.io/github/followers/anshi3626?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/anshi3626?label=Followers\&style=for-the-badge\&color=blue)" alt="GitHub Followers" />   \<img src="[https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20ML-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20ML-8A2BE2?style=for-the-badge)" alt="Focus" /> \</p>
 
-- 👯 I’m looking to collaborate on [ML-Based-Network-Intrusion-Detection-System](https://github.com/anshi3626/ML-Based-Network-Intrusion-Detection-System)
+---
 
-- 🤝 I’m looking for help with [phishing-email-detection-bert](https://github.com/anshi3626/phishing-email-detection-bert)
+## 👩‍💻 About Me
 
-- 💬 Ask me about **Cybersecurity, Freelancing**
+- 🎓 Pursuing **BCA in Cloud & Security**.
+- 🔐 Interested in Cybersecurity, Threat Detection and Secure Systems.
+- 🤖 Exploring Machine Learning, Deep Learning and AI-powered applications.
+- 💻 Building practical projects to solve real-world problems.
+- 🌱 Currently learning **Machine Learning, Cybersecurity and Freelancing**.
+- 🤝 Open to collaborating on innovative ML and cybersecurity projects.
+- ⚡ Believe in continuous learning, experimentation and building.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshi3626&show_icons=true&locale=en&layout=compact" alt="anshi3626" /></p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/anshi3626/permscan-android-malware-detection](https://github.com/anshi3626/permscan-android-malware-detection)">
+&#x20;   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=anshi3626&repo=permscan-android-malware-detection&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=anshi3626\&repo=permscan-android-malware-detection\&theme=tokyonight\&hide_border=true)" alt="PermScan Project" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/anshi3626/ML-Based-Network-Intrusion-Detection-System](https://github.com/anshi3626/ML-Based-Network-Intrusion-Detection-System)">
+&#x20;   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=anshi3626&repo=ML-Based-Network-Intrusion-Detection-System&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=anshi3626\&repo=ML-Based-Network-Intrusion-Detection-System\&theme=tokyonight\&hide_border=true)" alt="Network Intrusion Detection Project" />
+&#x20; \</a>
+\</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshi3626&show_icons=true&locale=en" alt="anshi3626" /></p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/anshi3626/phishing-email-detection-bert](https://github.com/anshi3626/phishing-email-detection-bert)">
+&#x20;   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=anshi3626&repo=phishing-email-detection-bert&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=anshi3626\&repo=phishing-email-detection-bert\&theme=tokyonight\&hide_border=true)" alt="Phishing Email Detection Project" />
+&#x20; \</a>
+\</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshi3626&" alt="anshi3626" /></p>
+---
+
+## 🛠️ Languages and Technologies
+
+### Programming Languages
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,c,cpp,java,html,css](https://skillicons.dev/icons?i=python,c,cpp,java,html,css)" />
+\</p>
+
+### Machine Learning & Data Science
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)" />
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)" height="45" alt="Pandas" />
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)" height="45" alt="NumPy" />
+\</p>
+
+### Databases & Backend
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,sqlite,flask](https://skillicons.dev/icons?i=mysql,sqlite,flask)" />
+\</p>
+
+### Tools & Platforms
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,androidstudio,vscode,linux](https://skillicons.dev/icons?i=git,github,androidstudio,vscode,linux)" />
+\</p>
+
+---
+
+## 📊 GitHub Analytics
+
+\<p align="center">
+&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=anshi3626&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,discussions_started](https://github-readme-stats.vercel.app/api?username=anshi3626\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&show=reviews,discussions_started)" alt="GitHub Statistics" />
+&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anshi3626&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=anshi3626\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages" />
+\</p>
+
+### ⭐ Repository & Star Statistics
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanshi3626&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=blue](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanshi3626\&query=%24.public_repos\&label=Public%20Repositories\&style=for-the-badge\&color=blue)" alt="Public Repositories" />
+&#x20; \<img src="[https://img.shields.io/github/stars/anshi3626?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars%20Received&color=yellow](https://img.shields.io/github/stars/anshi3626?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&label=Stars%20Received\&color=yellow)" alt="Stars Received" />
+&#x20; \<img src="[https://img.shields.io/github/followers/anshi3626?style=for-the-badge&label=GitHub%20Followers&color=blueviolet](https://img.shields.io/github/followers/anshi3626?style=for-the-badge\&label=GitHub%20Followers\&color=blueviolet)" alt="Followers" />
+\</p>
+
+---
+
+## 🔥 Contribution Streak
+
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=anshi3626&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=anshi3626\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
+\</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/anshi3626](https://github.com/anshi3626)">
+&#x20;   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=anshi3626&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=anshi3626\&theme=tokyo-night\&hide_border=true\&area=true)" alt="GitHub Contribution Activity Graph" />
+&#x20; \</a>
+\</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=anshi3626&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1](https://github-profile-trophy.vercel.app/?username=anshi3626\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4\&row=1)" alt="GitHub Trophies" />
+\</p>
+
+---
+
+## 🤝 Connect With Me
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/anshi3626](https://github.com/anshi3626)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<b>💡 Learn • Build • Secure • Innovate\</b>
+&#x20; \<br/>
+&#x20; \<i>Thanks for visiting my profile! Let's connect and create something impactful.\</i>
+\</p>
